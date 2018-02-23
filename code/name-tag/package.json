@@ -1,0 +1,17 @@
+{
+  "name": "@kaosat-dev/hannoverjs-jscad-nametag",
+  "version": "0.0.1",
+  "description": "3d printable nametag created for hannover.js presentation about openjscad",
+  "main": "index.js",
+  "keywords": [
+    "jscad",
+    "cad",
+    "hannover.js",
+    "3d printing",
+    "nametag",
+    "parametric"
+  ],
+  "author": "Mark 'kaosat-dev' Moissette & sons",
+  "license": "MIT",
+  "dependencies": {}
+}
