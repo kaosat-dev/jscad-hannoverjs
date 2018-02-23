@@ -11,7 +11,7 @@ can be found [here](./presentation/)
 
 ## code for the printable nametag
 
-can be found [here](./name-tag/)
+can be found [here](./code/name-tag/)
 
 ## video
 
